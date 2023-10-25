@@ -1,0 +1,14 @@
+"moment_permission_intent_title" = "Truy cập vào Media";
+"moment_permission_intent_reason" = "Cho phép game truy cập Album để lưu hoặc đăng ảnh/video.";
+"moment_permission_intent_confirm" = "Cho phép";
+"moment_permission_tip_title" = "Chú ý";
+"moment_permission_tip_reason" = "Không thể truy cập ảnh/video. Hãy vào Cài đặt và cho phép truy cập camera.";
+"moment_permission_tip_confirm" = "Đến Cài đặt";
+"moment_save_image" = "Lưu ảnh";
+"moment_dialog_title" = "Chú ý";
+"moment_dialog_content" = "Quay lại Game.";
+"moment_dialog_confirm" = "Chấp nhận";
+"moment_dialog_cancel" = "Hủy";
+"moment_save_success" = "Đã lưu";
+"moment_save_fail" = "Lưu thất bại";
+"moment_load_fail_hint" = "Tải thất bại. Thử lại.";
